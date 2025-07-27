@@ -1,6 +1,30 @@
-h1{
-    background-color: aqua;
+.bg-main {
+    background-image: url('../images/download.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: auto;
 }
-h2{
-    background-color: beige;
+
+.navb button {
+    border-radius: 28px;
 }
+
+.bg-main .main-text {
+    margin-top: 20vh;
+}
+
+.main-text button {
+    border-radius: 28px;
+}
+
+.last-second {
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.503);
+}
+
+.last {
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.824);
+}
+
